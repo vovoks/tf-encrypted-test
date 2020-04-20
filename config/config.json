@@ -1,0 +1,5 @@
+{
+  "alice": "machine1:port1",
+  "bob": "machine2:port2",
+  "crypto-producer": "machine3:port3"
+}
